@@ -1,4 +1,4 @@
-ipython-notebook
+Notebooks
 ================
 
-I am gathering useful ipython-notebooks from internet
+I am gathering useful notebooks from internet
