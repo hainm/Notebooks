@@ -17,8 +17,8 @@ Cython
 
 Speed comparison
 ----------------
-* (2013) Numba, NumPy and F2PY
-	* http://combichem.blogspot.com/2013/04/fun-with-numba-numpy-and-f2py.html
+* (2014) Matlab vs. Python Numpy Numba
+	* http://blogs.bu.edu/mhirsch/2014/11/speed-of-matlab-vs-python-numpy-numba/
 * (2014) Numpy, Cython, Fortran and OpenGL
 	* http://ezietsman.github.io/python/2014/09/06/parallel-python-on-a-gpu-with-opencl/
 * Some Linear Algebra with Cython
@@ -27,3 +27,5 @@ Speed comparison
 	* http://penandpants.com/2014/09/05/performance-of-pandas-series-vs-numpy-arrays/
 * (2014) Numpy vs C++ and BLAS
 	* http://stackoverflow.com/questions/7596612/benchmarking-python-vs-c-using-blas-and-numpy
+* (2013) Numba, NumPy and F2PY
+	* http://combichem.blogspot.com/2013/04/fun-with-numba-numpy-and-f2py.html
