@@ -25,3 +25,5 @@ Speed comparison
 	* http://nbviewer.ipython.org/github/carljv/cython_testing/blob/master/cython_linalg.ipynb
 * (2014) PERFORMANCE OF PANDAS SERIES VS NUMPY ARRAYS
 	* http://penandpants.com/2014/09/05/performance-of-pandas-series-vs-numpy-arrays/
+* (2014) Numpy vs C++ and BLAS
+	* http://stackoverflow.com/questions/7596612/benchmarking-python-vs-c-using-blas-and-numpy
