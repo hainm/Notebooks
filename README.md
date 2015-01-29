@@ -19,7 +19,7 @@ Speed comparison
 ----------------
 * (2014) Matlab vs. Python Numpy Numba
 	* http://blogs.bu.edu/mhirsch/2014/11/speed-of-matlab-vs-python-numpy-numba/
-* (2014) Numpy, Cython, Fortran and OpenGL
+* (2014) Numpy, Cython, Fortran and OpenCL
 	* http://ezietsman.github.io/python/2014/09/06/parallel-python-on-a-gpu-with-opencl/
 * Some Linear Algebra with Cython
 	* http://nbviewer.ipython.org/github/carljv/cython_testing/blob/master/cython_linalg.ipynb
